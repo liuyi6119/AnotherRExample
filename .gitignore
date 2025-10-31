@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# put files here that you don't want to commit
+# e.g., stu.txt
+# e.g., stuff/ (folder)
+
+*.Rproj
